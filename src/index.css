@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-json-view {
+    min-height: 100dvh;
+    min-width: 100dvw;
+
+    padding: 25px;
+}
